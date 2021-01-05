@@ -1,1 +1,1 @@
-# Objectif : analyser expérimentalement les performes des algorithmes de Tri
+# Objectif : Analyser expérimentalement les performes des algorithmes de Tri
